@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+\#*
+.*
+!.gitignore
+*.swp
+*~
+*.swo
+$.swn
+.idea/
+
